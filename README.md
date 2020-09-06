@@ -1,2 +1,2 @@
 # shuffle
-Change anything using index number 
+Guess where O will be form index 1 2 3.
